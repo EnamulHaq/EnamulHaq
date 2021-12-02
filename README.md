@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/enamul21" style="text-align: center;"><img src="https://api.daily.dev/devcards/e1a7ea01334b4846b32623231c7f7ceb.png?r=eb6" width="400" alt="Md Enamul Haq's Dev Card"/></a>
+<div align="center"><a href="https://app.daily.dev/enamul21" style="text-align: center;"><img src="https://api.daily.dev/devcards/e1a7ea01334b4846b32623231c7f7ceb.png?r=eb6" width="400" alt="Md Enamul Haq's Dev Card"/></a></div>
 <h1 align="center">Hi 👋, I'm Md. Enamul Haq</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh.</h3>
 
